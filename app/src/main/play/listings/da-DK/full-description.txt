@@ -2,10 +2,10 @@ Syncthing erstatter proprietære sync- og cloudservices med noget åbent, trovæ
 
 Hjemmeside: https://syncthing.net/
 
-Kildekode: https://github.com/syncthing/syncthing-android
+Kildekode: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/ 
 
-Fejl og problemer: https://github.com/syncthing/syncthing-android/issues
+Fejl og problemer: https://github.com/syncthing-android/syncthing-android/issues
 
 Privatlivspolitik: https://syncthing.net/android-privacy-policy

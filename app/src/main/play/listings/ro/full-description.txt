@@ -2,10 +2,10 @@ Syncthing înlocuiește serviciile proprietare de sincronizare și stocare tip c
 
 Website: https://syncthing.net/
 
-Cod sursă: https://github.com/syncthing/syncthing-android
+Cod sursă: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Raportare probleme: https://github.com/syncthing/syncthing-android/issues
+Raportare probleme: https://github.com/syncthing-android/syncthing-android/issues
 
 Termeni de confidențialitate: https://syncthing.net/android-privacy-policy

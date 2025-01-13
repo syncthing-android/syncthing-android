@@ -2,10 +2,10 @@ Syncthing replaces proprietary sync and cloud services with something open, trus
 
 වියමන අඩවිය: https://syncthing.net/
 
-ප්‍රභව කේතය: https://github.com/syncthing/syncthing-android
+ප්‍රභව කේතය: https://github.com/syncthing-android/syncthing-android
 
 සංසදය: https://forum.syncthing.net/
 
-ගැටළු: https://github.com/syncthing/syncthing-android/issues
+ගැටළු: https://github.com/syncthing-android/syncthing-android/issues
 
 රහස්‍යතා ප්‍රතිපත්තිය: https://syncthing.net/android-privacy-policy

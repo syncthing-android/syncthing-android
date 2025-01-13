@@ -4,10 +4,10 @@ Syncthing'in buradaki dosyaları eşitlemesine izin vermek için kullanıcı ver
 
 Web sitesi: https://syncthing.net/
 
-Kaynak kodu: https://github.com/syncthing/syncthing-android
+Kaynak kodu: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Sorunlar için: https://github.com/syncthing/syncthing-android/issues
+Sorunlar için: https://github.com/syncthing-android/syncthing-android/issues
 
 Gizlilik ilkesi: https://syncthing.net/android-privacy-policy

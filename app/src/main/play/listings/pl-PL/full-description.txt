@@ -4,10 +4,10 @@ Możesz wybrać dowolny katalog, w tym katalog danych użytkownika, aby umożliw
 
 Strona: https://syncthing.net/
 
-Kod źródłowy: https://github.com/syncthing/syncthing-android
+Kod źródłowy: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Problemy: https://github.com/syncthing/syncthing-android/issues
+Problemy: https://github.com/syncthing-android/syncthing-android/issues
 
 Polityka prywatności: https://syncthing.net/android-privacy-policy

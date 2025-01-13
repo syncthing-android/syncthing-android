@@ -2,10 +2,10 @@ Syncthing vervangt niet-vrije diensten door een open, betrouwbaar en gedecentral
 
 Website: https://syncthing.net/
 
-Broncode: https://github.com/syncthing/syncthing-android
+Broncode: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Problemen: https://github.com/syncthing/syncthing-android/issues
+Problemen: https://github.com/syncthing-android/syncthing-android/issues
 
 Privacybeleid: https://syncthing.net/android-privacy-policy
