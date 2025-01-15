@@ -1,7 +1,7 @@
 ## Reporting Bugs
 
 Please file bugs in the [GitHub Issue
-Tracker](https://github.com/syncthing/syncthing-android/issues). Bugs that
+Tracker](https://github.com/syncthing-android/syncthing-android/issues). Bugs that
 are not specific to Syncthing-Android should be reported to the
 [main project](https://github.com/syncthing/syncthing/issues) instead.
 Include at least the following in your issue report:

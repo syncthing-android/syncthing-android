@@ -4,10 +4,10 @@ Syncthing 用开放且值得信赖的去中心化服务取代了专有的同步�
 
 主页：https://syncthing.net/
 
-源代码：https://github.com/syncthing/syncthing-android
+源代码：https://github.com/syncthing-android/syncthing-android
 
 论坛：https://forum.syncthing.net/
 
-问题反馈：https://github.com/syncthing/syncthing-android/issues
+问题反馈：https://github.com/syncthing-android/syncthing-android/issues
 
 隐私政策：https://syncthing.net/android-privacy-policy

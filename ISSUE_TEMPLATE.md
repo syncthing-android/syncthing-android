@@ -12,7 +12,7 @@ Also fill out the version information below and add log output or screenshots as
 
 Do not file a feature request unless you want to implement it yourself. This is
 due to the maintenance status of this project, see [the readme for
-context](https://github.com/syncthing/syncthing-android#status-maintenance-mode---co-maintainers-welcome).
+context](https://github.com/syncthing-android/syncthing-android#status-maintenance-mode---co-maintainers-welcome).
 
 ### Version Information
 

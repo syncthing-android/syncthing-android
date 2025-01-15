@@ -194,7 +194,7 @@ public class SyncthingService extends Service {
 
         /**
          * If runtime permissions are revoked, android kills and restarts the service.
-         * see issue: https://github.com/syncthing/syncthing-android/issues/871
+         * see issue: https://github.com/syncthing-android/syncthing-android/issues/871
          * We need to recheck if we still have the storage permission.
          */
         mStoragePermissionGranted = PermissionUtil.haveStoragePermission(this);

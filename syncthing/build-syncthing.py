@@ -76,7 +76,7 @@ syncthing_dir = os.path.join(module_dir, 'src', 'github.com', 'syncthing', 'sync
 min_sdk = get_min_sdk(project_dir)
 
 # Make sure all tags are available for git describe
-# https://github.com/syncthing/syncthing-android/issues/872
+# https://github.com/syncthing-android/syncthing-android/issues/872
 subprocess.check_call([
     'git',
     '-C',

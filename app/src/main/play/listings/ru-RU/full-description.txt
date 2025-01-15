@@ -2,10 +2,10 @@ Syncthing заменяет проприетарные сервисы и обла
 
 Сайт: https://syncthing.net/
 
-Исходный код: https://github.com/syncthing/syncthing-android
+Исходный код: https://github.com/syncthing-android/syncthing-android
 
 Форум: https://forum.syncthing.net/
 
-Замечания: https://github.com/syncthing/syncthing-android/issues
+Замечания: https://github.com/syncthing-android/syncthing-android/issues
 
 Политика конфиденциальности: https://syncthing.net/android-privacy-policy

@@ -2,10 +2,10 @@ A Syncthing egy nyílt, megbízható és decentralizált szoftverrel váltja fel
 
 Weboldal: https://syncthing.net/
 
-Forráskód: https://github.com/syncthing/syncthing-android
+Forráskód: https://github.com/syncthing-android/syncthing-android
 
 Fórum: https://forum.syncthing.net/
 
-Hibajelentés: https://github.com/syncthing/syncthing-android/issues
+Hibajelentés: https://github.com/syncthing-android/syncthing-android/issues
 
 Adatvédelmi irányelvek: https://syncthing.net/android-privacy-policy

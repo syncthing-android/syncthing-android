@@ -4,10 +4,10 @@ Puede seleccionar cualquier directorio, incluyendo el propio directorio de datos
 
 Página web: https://syncthing.net/
 
-Código fuente: https://github.com/syncthing/syncthing-android
+Código fuente: https://github.com/syncthing-android/syncthing-android
 
 Foro: https://forum.syncthing.net/
 
-Problemas: https://github.com/syncthing/syncthing-android/issues
+Problemas: https://github.com/syncthing-android/syncthing-android/issues
 
 Política de privacidad: https://syncthing.net/android-privacy-policy

@@ -2,10 +2,10 @@ Syncthing 用開放、可信和去中心化的東西取代了專有的同步和�
 
 網站：https://syncthing.net/
 
-源代碼：https://github.com/syncthing/syncthing-android
+源代碼：https://github.com/syncthing-android/syncthing-android
 
 論壇：https://forum.syncthing.net/
 
-問題：https://github.com/syncthing/syncthing-android/issues
+問題：https://github.com/syncthing-android/syncthing-android/issues
 
 隱私政策：https://syncthing.net/android-privacy-policy

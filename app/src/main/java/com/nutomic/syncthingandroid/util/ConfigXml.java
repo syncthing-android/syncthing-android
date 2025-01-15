@@ -149,7 +149,7 @@ public class ConfigXml {
                 changed = true;
             }
 
-            // Set 'hashers' (see https://github.com/syncthing/syncthing-android/issues/384) on the
+            // Set 'hashers' (see https://github.com/syncthing-android/syncthing-android/issues/384) on the
             // given folder.
             changed = setConfigElement(r, "hashers", "1") || changed;
         }
@@ -196,7 +196,7 @@ public class ConfigXml {
                 .getElementsByTagName("options").item(0);
         changed = setConfigElement(options, "weakHashSelectionMethod", "never") || changed;
 
-        /* Dismiss "fsWatcherNotification" according to https://github.com/syncthing/syncthing-android/pull/1051 */
+        /* Dismiss "fsWatcherNotification" according to https://github.com/syncthing-android/syncthing-android/pull/1051 */
         NodeList childNodes = options.getChildNodes();
         for (int i = 0; i < childNodes.getLength(); i++) {
             Node node = childNodes.item(i);

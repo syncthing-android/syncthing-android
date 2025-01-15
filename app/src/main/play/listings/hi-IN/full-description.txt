@@ -2,10 +2,10 @@ Syncthing मालिकाना सिंक और क्लाउड से
 
 वेबसाइट: https://syncthing.net/
 
-स्रोत कोड: https://github.com/syncthing/syncthing-android
+स्रोत कोड: https://github.com/syncthing-android/syncthing-android
 
 फोरम: https://forum.syncthing.net/
 
-मुद्दे: https://github.com/syncthing/syncthing-android/issues
+मुद्दे: https://github.com/syncthing-android/syncthing-android/issues
 
 गोपनीयता-नीति: https://syncthing.net/android-privacy-policy
