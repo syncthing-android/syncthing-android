@@ -4,10 +4,10 @@ You can select any directory, including the user data directory itself, to let S
 
 Website: https://syncthing.net/
 
-Source code: https://github.com/syncthing/syncthing-android
+Source code: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Issues: https://github.com/syncthing/syncthing-android/issues
+Issues: https://github.com/syncthing-android/syncthing-android/issues
 
 Privacy-policy: https://syncthing.net/android-privacy-policy

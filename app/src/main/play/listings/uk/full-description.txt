@@ -2,10 +2,10 @@ Syncthing замінює власницькі сервіси синхроніз�
 
 Вебсайт: https://syncthing.net/
 
-Вихідний код: https://github.com/syncthing/syncthing-android
+Вихідний код: https://github.com/syncthing-android/syncthing-android
 
 Форум: https://forum.syncthing.net/
 
-Проблеми: https://github.com/syncthing/syncthing-android/issues
+Проблеми: https://github.com/syncthing-android/syncthing-android/issues
 
 Політика приватності: https://syncthing.net/android-privacy-policy

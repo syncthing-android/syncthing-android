@@ -2,10 +2,10 @@ Syncthing ersetzt die proprietären Synchronisierungs- und Cloud-Dienste, mit et
 
 Webseite: https://syncthing.net/
 
-Quellcode: https://github.com/syncthing/syncthing-android
+Quellcode: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Probleme: https://github.com/syncthing/syncthing-android/issues
+Probleme: https://github.com/syncthing-android/syncthing-android/issues
 
 Datenschutzrichtlinie (englisch): https://syncthing.net/android-privacy-policy

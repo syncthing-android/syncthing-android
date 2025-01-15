@@ -2,10 +2,10 @@ Syncthing reemplaza a la sincronización propietaria y a los servicios en la nub
 
 Sitio web: https://syncthing.net/
 
-Código fuente: https://github.com/syncthing/syncthing-android
+Código fuente: https://github.com/syncthing-android/syncthing-android
 
 Foro: https://forum.syncthing.net/
 
-Problemas: https://github.com/syncthing/syncthing-android/issues
+Problemas: https://github.com/syncthing-android/syncthing-android/issues
 
 Privacy-policy: https://syncthing.net/android-privacy-policy

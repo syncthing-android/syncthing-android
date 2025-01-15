@@ -2,10 +2,10 @@ Syncthing은 기존의 동기화 및 클라우드 독점 서비스를 대체할 
 
 홈페이지: https://syncthing.net/
 
-소스 코드: https://github.com/syncthing/syncthing-android
+소스 코드: https://github.com/syncthing-android/syncthing-android
 
 게시판: https://forum.syncthing.net/
 
-문제 제기: https://github.com/syncthing/syncthing-android/issues
+문제 제기: https://github.com/syncthing-android/syncthing-android/issues
 
 개인정보처리방침: https://syncthing.net/android-privacy-policy

@@ -2,10 +2,10 @@ Syncthingek sinkronizazio-zerbitzu jabeak eta hodeian zerbait ireki, konfiantzaz
 
 Web orrialdea: https://syncthing.net/
 
-Iturburu kodea: https://github.com/syncthing/syncthing-android
+Iturburu kodea: https://github.com/syncthing-android/syncthing-android
 
 Foroa: https://forum.syncthing.net/
 
-Arazoak: https://github.com/syncthing/syncthing-android/issues
+Arazoak: https://github.com/syncthing-android/syncthing-android/issues
 
 Pribatutasun-politika: https://syncthing.net/android-privacy-policy

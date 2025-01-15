@@ -2,10 +2,10 @@ Syncthing korvaa yksityisomisteiset synkronointi- ja pilvipalvelut avoimella, lu
 
 Verkkosivu: https://syncthing.net/
 
-Lähdekoodi: https://github.com/syncthing/syncthing-android
+Lähdekoodi: https://github.com/syncthing-android/syncthing-android
 
 Foorumi: https://forum.syncthing.net/
 
-Ongelmat: https://github.com/syncthing/syncthing-android/issues
+Ongelmat: https://github.com/syncthing-android/syncthing-android/issues
 
 Privacy-policy: https://syncthing.net/android-privacy-policy

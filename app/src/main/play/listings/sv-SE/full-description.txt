@@ -4,10 +4,10 @@ Du kan välja vilken mapp som helst, inklusive själva användardatamappen, för
 
 Webbplats: https://syncthing.net/
 
-Källkod: https://github.com/syncthing/syncthing-android
+Källkod: https://github.com/syncthing-android/syncthing-android
 
 Forum: https://forum.syncthing.net/
 
-Problem: https://github.com/syncthing/syncthing-android/issues
+Problem: https://github.com/syncthing-android/syncthing-android/issues
 
 Integritetspolicy: https://syncthing.net/android-privacy-policy

@@ -146,7 +146,7 @@ public class EventProcessor implements  Runnable, RestApi.OnReceiveEventListener
                     // changed behaviour with scoped storage. In any case it now does not only
                     // update the media db, but actually delete the file on disk. Which is bad,
                     // as it can race with the creation of the same file and thus delete it. See:
-                    // https://github.com/syncthing/syncthing-android/issues/1801
+                    // https://github.com/syncthing-android/syncthing-android/issues/1801
                     // https://github.com/syncthing/syncthing/issues/7974
                     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
                         break;
