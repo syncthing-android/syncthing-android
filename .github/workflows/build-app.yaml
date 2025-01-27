@@ -6,6 +6,8 @@ on:
     branches:
       - main
       - release
+      - syncthing-legacy
+      - web-only
 
 env:
   # Our build metadata
