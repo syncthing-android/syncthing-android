@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.nutomic.syncthingandroid">
+    package="com.latec.syncthinglegacy">
 
     <uses-feature android:name="android.software.leanback" android:required="false" />
     <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
@@ -138,8 +138,8 @@
             tools:ignore="ExportedReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.nutomic.syncthingandroid.action.START" />
-                <action android:name="com.nutomic.syncthingandroid.action.STOP" />
+                <action android:name="com.latec.syncthinglegacy.action.START" />
+                <action android:name="com.latec.syncthinglegacy.action.STOP" />
             </intent-filter>
         </receiver>
         <activity android:name=".activities.FolderTypeDialogActivity"
@@ -148,7 +148,7 @@
             android:parentActivityName=".activities.FolderActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.nutomic.syncthingandroid.activities.FolderActivity" />
+                android:value="com.latec.syncthinglegacy.activities.FolderActivity" />
         </activity>
         <activity android:name=".activities.PullOrderDialogActivity"
             android:label="@string/pull_order"
@@ -156,7 +156,7 @@
             android:parentActivityName=".activities.FolderActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.nutomic.syncthingandroid.activities.FolderActivity" />
+                android:value="com.latec.syncthinglegacy.activities.FolderActivity" />
         </activity>
         <activity android:name=".activities.VersioningDialogActivity"
             android:label="@string/file_versioning"
@@ -164,14 +164,14 @@
             android:parentActivityName=".activities.FolderActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.nutomic.syncthingandroid.activities.FolderActivity" />
+                android:value="com.latec.syncthinglegacy.activities.FolderActivity" />
         </activity>
         <activity android:name=".activities.QRScannerActivity"
             android:label="QR Code Scanner"
             android:parentActivityName=".activities.DeviceActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.nutomic.syncthingandroid.activities.DeviceActivity" />
+                android:value="com.latec.syncthinglegacy.activities.DeviceActivity" />
         </activity>
     </application>
 
