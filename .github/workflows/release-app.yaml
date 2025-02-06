@@ -51,10 +51,15 @@ jobs:
           ./gradlew --no-daemon buildNative lint assembleRelease bundleRelease
           rm "$SYNCTHING_RELEASE_STORE_FILE" "$SYNCTHING_RELEASE_PLAY_ACCOUNT_CONFIG_FILE"
 
-      - uses: ncipollo/release-action@v1
+      - uses: actions/upload-artifact@v4
         with:
-          artifacts: "app/build/outputs/apk/release/*.apk"
-          artifactErrorsFailBuild: true
-          bodyFile: "app/src/main/play/release-notes/en-GB/default.txt"
-          prerelease: ${{ contains('-rc.', github.ref_name) }}
-          draft: true
+          name: syncthing-android-release.apk
+          path: app/build/outputs/apk/release/app-release.apk
+
+#      - uses: ncipollo/release-action@v1
+#        with:
+#          artifacts: "app/build/outputs/apk/release/*.apk"
+#          artifactErrorsFailBuild: true
+#          bodyFile: "app/src/main/play/release-notes/en-GB/default.txt"
+#          prerelease: ${{ contains('-rc.', github.ref_name) }}
+#          draft: true
