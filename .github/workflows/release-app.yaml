@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/syncthing-android/syncthing-android-builder
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
@@ -45,6 +45,7 @@ jobs:
           echo '${{ secrets.SIGNING_KEYSTORE_JKS_BASE64 }}' | base64 -d > "$SYNCTHING_RELEASE_STORE_FILE"
           echo '${{ secrets.GOOGLE_PLAY_SECRETS_BASE64 }}' | base64 -d > "$SYNCTHING_RELEASE_PLAY_ACCOUNT_CONFIG_FILE"
           java -version
+          ls -al; ls -al app;
           # TODO: Readd publishReleaseBundle if google play works again, or
           # remove everything related to publishing to google play.
           ./gradlew --no-daemon buildNative lint assembleRelease bundleRelease
