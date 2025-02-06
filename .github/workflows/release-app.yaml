@@ -56,6 +56,11 @@ jobs:
           name: syncthing-android-release.apk
           path: app/build/outputs/apk/release/app-release.apk
 
+      - uses: actions/upload-artifact@v4
+        with:
+          name: syncthing-android-release.aab
+          path: app/build/outputs/bundle/release/app-release.aab
+
 #      - uses: ncipollo/release-action@v1
 #        with:
 #          artifacts: "app/build/outputs/apk/release/*.apk"
