@@ -43,9 +43,9 @@ android {
     defaultConfig {
         applicationId = "com.latec.syncthinglegacy"
         minSdk = 21
-        targetSdk = 33
-        versionCode = 4398
-        versionName = "1.28.1.10"
+        targetSdk = 34
+        versionCode = 4399
+        versionName = "1.28.1.11"
         testApplicationId = "com.latec.syncthinglegacy.test"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
