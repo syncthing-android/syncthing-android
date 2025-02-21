@@ -45,7 +45,7 @@ android {
         minSdk = 21
         targetSdk = 34
         versionCode = 4400
-        versionName = "1.28.2025"
+        versionName = "1.28.2024"
         testApplicationId = "com.latec.syncthinglegacy.test"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
